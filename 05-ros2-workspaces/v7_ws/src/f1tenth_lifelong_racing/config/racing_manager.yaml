@@ -1,0 +1,3 @@
+racing_manager_node:
+  ros__parameters:
+    loop_closure_topic: "/slam/loop_closure_detected"

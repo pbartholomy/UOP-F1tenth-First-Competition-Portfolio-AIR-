@@ -1,0 +1,34 @@
+# ── ROS2 / colcon build artifacts ──
+build/
+install/
+log/
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# ── Recorded media & large data (kept off GitHub — see README) ──
+*.mp4
+*.avi
+*.svo
+*.svo2
+*.bag
+*.db3
+*Video/
+zed_recordings/
+*.zip
+
+# ── Large binaries / vendor blobs ──
+*.pdf
+vesc_tool/
+*.bin
+
+# ── OS / editor cruft ──
+.DS_Store
+*.swp
+.idea/
+.vscode/
