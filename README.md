@@ -6,8 +6,7 @@ journey** — from first powering the motor controller, through reactive obstacl
 avoidance, to SLAM-based mapping with pure-pursuit path following and an ML
 steering model used at competition.
 
-> _Built and raced by **Okhan-Coder**. Replace this line with the competition
-> name, date, and result._
+> _Built and raced by Patrick Bartholomy, Michail Alam, and Uzair Naseer.  Raced in 38th RoboRacer competition in Detroit Michigan.
 
 ---
 
